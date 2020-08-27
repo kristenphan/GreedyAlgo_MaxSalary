@@ -3,7 +3,16 @@ __Repo Description:__
 <br/>
 This repo contains the code written by myself, Kristen Phan, as part of a Coursera course (https://www.coursera.org/learn/algorithmic-toolbox/). Please refrain from checking out the script if you're currently taking the course. 
 <br/>
-__Problem Description__
+<br/>
+__Problem Introduction:__
+<br/>
+As the last question of a successful interview, your boss gives you a few pieces of paper
+with numbers on it and asks you to compose a largest number from these numbers. The
+resulting number is going to be your salary, so you are very much interested in maximizing
+this number. How can you do this?
+<br/>
+<br/>
+__Problem Description:__
 <br/>
 __Task.__ Compose the largest number out of a set of integers.
 <br/>
